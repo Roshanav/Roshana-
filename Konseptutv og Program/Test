@@ -1,0 +1,24 @@
+print ("Hei, verden!")
+
+print(5)
+print(2025)
+
+print(10 + 2)   #Skriver ut 12
+print(10 * 2)   #Skriver ut 20 
+
+navn = "Per Spellmann"
+alder = 42 
+print(navn)
+print(alder)
+
+navn = "Per Spellmann"
+alder = 42
+print(f"{navn} er {alder} år gammel")
+
+# Fra sammenligningstabellen: 
+navn = "Per Spellmann"
+print(navn)
+
+navn = "Per Spellmann"
+alder = 42 
+print(f"{navn} er {alder} år")

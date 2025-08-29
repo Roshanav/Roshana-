@@ -1,0 +1,9 @@
+print("Hello, Roshana")
+print(" jeg er 16 år")
+
+navn= "Roshana"
+print(navn)
+
+navn1=input("tast inn navnet ditt:")
+navn2 = ("tast inn navnet ditt:")
+print(navn1, navn2) 

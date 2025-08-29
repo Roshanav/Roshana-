@@ -1,0 +1,8 @@
+print("hello World") 
+print("Hallo","Verden","!")
+print("Hallo", "Verden", "!", sep="+")
+print("Hallo", "Verden","!", end=" ")
+print("Hallo", "igjen", "!", end=" slutt\n")
+print("01", "01", "2022", sep=":")
+print("per","Spellman", sep=".", end="@")
+print("eventyr.no")
